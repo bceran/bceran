@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi 👋, I'm Berkan
+
+I’m currently working on Machine Learning, Deep Learning and Statistics.
+
+Python Stack
+    
+    * Numpy
+    * Pandas
+    * Scikit-Learn
+    * PyTorch
+    * Matplotlib, Seaborn
+
 
 <!--
 **bceran/bceran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
